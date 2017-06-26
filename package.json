@@ -1,0 +1,27 @@
+{
+  "name": "eccobot",
+  "version": "1.0.0",
+  "description": "discord.js bot with python interface for processing and returning voice data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parameterized/eccobot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parameterized/eccobot/issues"
+  },
+  "homepage": "https://github.com/parameterized/eccobot#readme",
+  "dependencies": {
+    "bufferutil": "^3.0.1",
+    "discord.js": "^11.1.0",
+    "erlpack": "github:hammerandchisel/erlpack",
+    "node-opus": "^0.2.6",
+    "sodium": "^2.0.1",
+    "uws": "^8.14.0"
+  }
+}

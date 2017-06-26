@@ -57,3 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+
+
+# bot token
+token.txt
+
+voice_streams/
